@@ -13,21 +13,3 @@ h1{
 p{
 	text
 }
-li {
-    float: left;
-}
-
-a {
-    display: block;
-    padding: 8px;
-    background-color: #dddddd;
-}
-.active {
-    background-color: #4CAF50;
-    color: white;
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
